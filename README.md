@@ -25,12 +25,12 @@
 
 Hello! I'm **Gopal Kumar Sahu**, a student and aspiring software developer passionate about programming, artificial intelligence, and technology.
 
-- 💻 Interested in Python and software development.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🌐 Learning web development and application development.
-- 🧠 Improving problem-solving and programming skills.
-- 🚀 Interested in building practical, real-world projects.
-- 🤝 Open to learning, collaboration and open-source opportunities.
+-  Interested in Python and software development.
+-  Exploring Artificial Intelligence and Machine Learning.
+-  Learning web development and application development.
+-  Improving problem-solving and programming skills.
+-  Interested in building practical, real-world projects.
+-  Open to learning, collaboration and open-source opportunities.
 
 **My Goal:** To become a skilled software developer and build technology that solves meaningful problems.
 
@@ -40,15 +40,21 @@ Hello! I'm **Gopal Kumar Sahu**, a student and aspiring software developer passi
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
+Python Programming 
+
+C Progrmming 
 
 ### Development & Technology Interests
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
-</p>
+html
+
+css
+
+git
+
+github
+
+vs code
 
 ### Areas of Interest
 
@@ -58,22 +64,33 @@ Hello! I'm **Gopal Kumar Sahu**, a student and aspiring software developer passi
 
 ---
 
-## 💻 Featured Projects
 
-I'm building my project portfolio and will showcase selected projects here.
+## Projects
 
-<!--
-Add your actual projects in this format:
+###  Bluetooth Controlled Smart Car
 
-### Project Name
-Description of your project.
+A Bluetooth-controlled robotic car that can be operated wirelessly using an Android smartphone. The system receives commands through an HC-05 Bluetooth module and controls the motors using an L298N motor driver.
 
-Tech Stack: Python, AI/ML, etc.
+**Key Features:**
+-  Wireless smartphone control.
+-  HC-05 Bluetooth communication.
+-  Forward, backward, left and right movement.
+-  Stop command for motor control.
+-  Arduino-based embedded system.
 
-Repository: https://github.com/username/repository-name
+**Technologies & Components:**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+
+`Arduino UNO` `HC-05` `L298N Motor Driver` `DC Motors`
+
+**Project Type:** Robotics | Embedded Systems | IoT
+
+**Source Code:** [View Repository](PROJECT_REPOSITORY_LINK)
 
 ---
--->
 
 ---
 
