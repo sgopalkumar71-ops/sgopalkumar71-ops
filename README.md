@@ -81,9 +81,9 @@ Repository: https://github.com/username/repository-name
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sgopalkumar71-ops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sgopalkumar71-ops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgopalkumar71-ops&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgopalkumar71-ops&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 <br/><br/>
 
