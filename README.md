@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Learning-00C853?style=for-the-badge" />
+www.linkedin.com/in/gopal-kumar-sahu-763970379
 
 </div>
 
