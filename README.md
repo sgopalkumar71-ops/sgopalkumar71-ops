@@ -47,7 +47,7 @@ Hello! I'm **Gopal Kumar Sahu**, a student and aspiring software developer passi
 ### Development & Technology Interests
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
 </p>
 
 ### Areas of Interest
