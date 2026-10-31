@@ -88,7 +88,7 @@ A Bluetooth-controlled robotic car that can be operated wirelessly using an Andr
 
 **Project Type:** Robotics | Embedded Systems | IoT
 
-**Source Code:** [View Repository](PROJECT_REPOSITORY_LINK)
+**Source Code:** [View Repository]([PROJECT_REPOSITORY_LINK](https://github.com/sgopalkumar71-ops/BlueMotion/blob/main/Code))
 
 ---
 
